@@ -41,6 +41,7 @@ var Directives = []string{
 	"rewrite",
 	"header",
 	"dnssec",
+	"dnssec_pqc",
 	"autopath",
 	"minimal",
 	"template",

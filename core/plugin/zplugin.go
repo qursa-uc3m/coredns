@@ -19,6 +19,7 @@ import (
 	_ "github.com/coredns/coredns/plugin/debug"
 	_ "github.com/coredns/coredns/plugin/dns64"
 	_ "github.com/coredns/coredns/plugin/dnssec"
+	_ "github.com/coredns/coredns/plugin/dnssec_pqc"
 	_ "github.com/coredns/coredns/plugin/dnstap"
 	_ "github.com/coredns/coredns/plugin/erratic"
 	_ "github.com/coredns/coredns/plugin/errors"

@@ -29,13 +29,13 @@ The plugin currently supports the following post-quantum signature schemes, iden
 | FALCONPADDED1024 | 47 |
 
 ## Installation
-
+```bash
 git clone https://github.com/Juligent/coredns
 cd coredns
 go mod tidy
 go clean
 go build
-
+```
 
 ## Configuration example of the Corefile
 

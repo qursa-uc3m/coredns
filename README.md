@@ -5,7 +5,9 @@ This is a **fork of CoreDNS** that integrates support for **Post-Quantum Cryptog
 
 ## PQC DNSSEC Plugin
 
-The `dnssec_pqc` plugin extends CoreDNS to allow DNSSEC zone signing and validation using a set of post-quantum signature algorithms. It builds upon the original `dnssec` plugin by replacing or augmenting cryptographic operations with post-quantum alternatives.
+The `dnssec_pqc` plugin extends CoreDNS to allow DNSSEC zone signing and validation using a set of post-quantum signature algorithms. It builds upon the original `dnssec` plugin by replacing or augmenting cryptographic operations with post-quantum alternatives. The plugin can be find here:
+
+> [https://github.com/qursa-uc3m/dns ](https://github.com/Juligent/plugin-dnssec_pqc) 
 
 ### Supported Algorithms and Identifiers
 

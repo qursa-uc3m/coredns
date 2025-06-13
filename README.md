@@ -58,8 +58,7 @@ example.org:1053 {
 ## Dependencies
 
 This fork depends on a **custom version** of the [`miekg/dns`](https://github.com/miekg/dns) library, modified to support PQC extensions.
-
-> 📦 Custom DNS library:  
+  
 > https://github.com/qursa-uc3m/dns  
 > Branch: `pqcintegrated`
 
